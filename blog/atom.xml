@@ -11,7 +11,7 @@ layout: feed
 	<id>http://xinyiliu97.github.io/blog</id>
 	<author>
 		<name>Xinyi Liu</name>
-		<email>liu.xinyi.self@gmail.com</email>
+		<email>xinyiliu2025@u.northwestern.edu</email>
 	</author>
 
 	{% for post in site.posts %}
