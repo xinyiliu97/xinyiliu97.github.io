@@ -5,10 +5,10 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Piano Recordings</title>
-	<link href="http://xinyiliu97.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://xinyiliu97.github.io/blog"/>
+	<link href="http://xinyiliu97.github.io/recordings/atom.xml" rel="self"/>
+	<link href="http://xinyiliu97.github.io/recordings"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://xinyiliu97.github.io/blog</id>
+	<id>http://xinyiliu97.github.io/recordings</id>
 	<author>
 		<name>Xinyi Liu</name>
 		<email>xinyiliu2025@u.northwestern.edu</email>
